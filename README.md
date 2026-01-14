@@ -66,4 +66,4 @@ This dashboard is suitable for:
 - Dashboard design prioritizes **clarity, trend visibility, and decision-making speed**.
 
 ---
-**Author:** Mithu  
+**Author:** Mithu
